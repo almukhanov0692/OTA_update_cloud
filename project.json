@@ -1,0 +1,5 @@
+{
+    "version": "1.0",
+    "notes": "Первая версия прошивки",
+    "bin": "https://raw.githubusercontent.com/user/esp32-ota/main/firmware.bin"
+}
