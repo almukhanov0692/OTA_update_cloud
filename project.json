@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
-    "notes": "Первая версия прошивки",
-    "bin": "https://raw.githubusercontent.com/user/esp32-ota/main/firmware.bin"
+  "version": "1.0",
+  "notes": "Исправлены баги, улучшена производительность",
+  "bin": "https://raw.githubusercontent.com/almukhanov0692/OTA_update_cloud/main/git_hub.ino.bin"
 }
