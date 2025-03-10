@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "notes": "Исправлены баги, улучшена производительность",
   "bin": "https://raw.githubusercontent.com/almukhanov0692/OTA_update_cloud/main/git_hub.ino.bin"
 }
