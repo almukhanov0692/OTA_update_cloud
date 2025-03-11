@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0",
   "notes": "Исправлены баги, улучшена производительность",
   "chipFamily": "ESP32",  // "ESP8266" или "ESP32", "ESP32-S2", "ESP32-C3" и т.д.
   "path": "https://raw.githubusercontent.com/almukhanov0692/OTA_update_cloud/main/git_hub.ino.bin"
